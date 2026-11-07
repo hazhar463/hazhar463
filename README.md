@@ -24,6 +24,21 @@
 
 **Telecom engineer by day, storyteller by night.** I work on 4G and 5G networks, and I write books that teach technology by building real things, step by step.
 
+### 💼 Professional
+
+**Principal Technical Leader at Nokia** · 5G network automation and data analytics · Adjunct Professor, Data Analytics · PhD candidate in IT
+
+Most telecom teams have more network data than they can use. I turn that data into automation and better decisions, and I teach others to do the same.
+
+- 15+ years in telecom, the last 12 at Nokia
+- Worked on the nationwide 5G N41 launch
+- Built test frameworks and KPI dashboards that make testing faster and reporting more accurate
+- Trained engineers and customers in 6 countries
+- Teach data analytics at City University of Seattle and computer networking at Henry Ford College
+- PhD in IT (AI and data science) in progress at CityU · Google Cybersecurity certificate
+
+**Top skills:** Machine Learning · Big Data Analytics · Cybersecurity · Data Science
+
 ### 📘 BriskNest Tech Guides
 
 | # | Book | Companion code |
@@ -42,12 +57,6 @@ More books, including my children's books, are at [**hazhar.com**](https://www.h
 </p>
 
 `AI agents & local LLMs (Ollama)` · `Claude Code` · `Automation` · `Data science` · `4G / 5G networks`
-
-### 📈 GitHub activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hazhar463&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
