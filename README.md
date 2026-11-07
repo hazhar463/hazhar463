@@ -12,6 +12,7 @@
 
 <!-- Quick links -->
 <p align="center">
+  <a href="https://hazhar463.github.io"><img src="https://img.shields.io/badge/Portfolio-hazhar463.github.io-2C9CDB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.hazhar.com"><img src="https://img.shields.io/badge/Website-hazhar.com-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/hazhar/"><img src="https://img.shields.io/badge/LinkedIn-hazhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://orcid.org/0000-0001-6392-8592"><img src="https://img.shields.io/badge/ORCID-0000--0001--6392--8592-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
