@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hassan%20Azhar&fontSize=44&fontColor=ffffff&desc=Telecom%20Engineer%20%E2%80%A2%20Author%20%E2%80%A2%20Builder&descAlignY=72&descSize=18" alt="Hassan Azhar banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0A66C2,100:2C9CDB&height=220&section=header&text=Hassan%20Azhar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Telecom%20Engineer%20%E2%80%A2%20Author%20%E2%80%A2%20Builder&descSize=18&descAlignY=56&descColor=e6f1ff" alt="Hassan Azhar banner" />
 </p>
 
 <!-- Typing line -->
@@ -61,5 +61,5 @@ More books, including my children's books, are at [**hazhar.com**](https://www.h
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9CDB,50:0A66C2,100:0A2540&height=100&section=footer" alt="Footer" />
 </p>
