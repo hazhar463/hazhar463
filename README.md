@@ -6,13 +6,14 @@
 
 | Book | Companion code |
 |---|---|
+| **Claude Code Without the Chaos**: build, test, and ship real software with an AI coding agent | [claude-code-without-the-chaos](https://github.com/hazhar463/claude-code-without-the-chaos) |
 | **AI Agents & Automation for Beginners**: build controlled workflows that observe, decide, and act | [ai-agents-for-beginners](https://github.com/hazhar463/ai-agents-for-beginners) |
 
 More books, including my children's books, are at **[hazhar.com](https://www.hazhar.com)**.
 
 #### 🛠️ What I work with
 
-`Python` · `AI agents & local LLMs (Ollama)` · `Automation` · `Data science` · `Docker & Jenkins` · `Kotlin` · `Swift` · `4G / 5G networks`
+`Python` · `AI agents & local LLMs (Ollama)` · `Claude Code` · `Automation` · `Data science` · `Docker & Jenkins` · `Kotlin` · `Swift` · `4G / 5G networks`
 
 #### 🔗 Find me
 
