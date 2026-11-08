@@ -42,12 +42,12 @@ Most telecom teams have more network data than they can use. I turn that data in
 
 ### 📘 BriskNest Tech Guides
 
-| # | Book | Companion code |
-|:-:|------|----------------|
-| 1 | **Claude Code Without the Chaos**: build, test, and ship real software with an AI coding agent | [claude-code-without-the-chaos](https://github.com/hazhar463/claude-code-without-the-chaos) |
-| 2 | **AI Agents & Automation for Beginners**: build controlled workflows that observe, decide, and act | [ai-agents-for-beginners](https://github.com/hazhar463/ai-agents-for-beginners) |
-| 3 | **Claude for Beginners** | *coming soon* |
-| 4 | **Microsoft Copilot for Beginners** | *coming soon* |
+| # | Book | Companion code | Buy |
+|:-:|------|----------------|:---:|
+| 1 | **Claude Code Without the Chaos**: build, test, and ship real software with an AI coding agent | [claude-code-without-the-chaos](https://github.com/hazhar463/claude-code-without-the-chaos) | [![Buy on Amazon](https://img.shields.io/badge/Amazon-%2429.99-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HQVZN7KK) |
+| 2 | **AI Agents & Automation for Beginners**: build controlled workflows that observe, decide, and act | [ai-agents-for-beginners](https://github.com/hazhar463/ai-agents-for-beginners) | [![Buy on Amazon](https://img.shields.io/badge/Amazon-%2424.99-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HQVW4P7H) |
+| 3 | **Claude for Beginners** | *coming soon* | |
+| 4 | **Microsoft Copilot for Beginners** | *coming soon* | |
 
 More books, including my children's books, are at [**hazhar.com**](https://www.hazhar.com).
 
