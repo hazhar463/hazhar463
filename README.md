@@ -42,12 +42,26 @@ Most telecom teams have more network data than they can use. I turn that data in
 
 ### 📘 BriskNest Tech Guides
 
-| # | Book | Companion code | Buy |
-|:-:|------|----------------|:---:|
-| 1 | **Claude Code Without the Chaos**: build, test, and ship real software with an AI coding agent | [claude-code-without-the-chaos](https://github.com/hazhar463/claude-code-without-the-chaos) | [![Buy on Amazon](https://img.shields.io/badge/Amazon-%2429.99-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HQVZN7KK) |
-| 2 | **AI Agents & Automation for Beginners**: build controlled workflows that observe, decide, and act | [ai-agents-for-beginners](https://github.com/hazhar463/ai-agents-for-beginners) | [![Buy on Amazon](https://img.shields.io/badge/Amazon-%2424.99-FF9900?style=flat-square&logo=amazon&logoColor=white)](https://www.amazon.com/dp/B0HQVW4P7H) |
-| 3 | **Claude for Beginners** | *coming soon* | |
-| 4 | **Microsoft Copilot for Beginners** | *coming soon* | |
+<table>
+<tr>
+<td width="120" valign="top"><a href="https://www.amazon.com/dp/B0HQVZN7KK"><img src="https://hazhar463.github.io/book1.webp" width="110" alt="Claude Code Without the Chaos cover" /></a></td>
+<td valign="top">
+<h3>Claude Code Without the Chaos</h3>
+<p>Build, test, and ship real software with an AI coding agent: a hands-on guide for beginners<br/><sub><b>Paperback · $29.99</b></sub></p>
+<p><a href="https://www.amazon.com/dp/B0HQVZN7KK"><img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy on Amazon" /></a><br/><a href="https://github.com/hazhar463/claude-code-without-the-chaos"><img src="https://img.shields.io/badge/Companion_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Companion code" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="120" valign="top"><a href="https://www.amazon.com/dp/B0HQVW4P7H"><img src="https://hazhar463.github.io/book2.webp" width="110" alt="AI Agents &amp; Automation for Beginners cover" /></a></td>
+<td valign="top">
+<h3>AI Agents &amp; Automation for Beginners</h3>
+<p>Build controlled workflows that observe, decide, and act<br/><sub><b>Paperback · $24.99</b></sub></p>
+<p><a href="https://www.amazon.com/dp/B0HQVW4P7H"><img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy on Amazon" /></a><br/><a href="https://github.com/hazhar463/ai-agents-for-beginners"><img src="https://img.shields.io/badge/Companion_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Companion code" /></a></p>
+</td>
+</tr>
+</table>
+
+**Coming soon:** Claude for Beginners · Microsoft Copilot for Beginners
 
 More books, including my children's books, are at [**hazhar.com**](https://www.hazhar.com).
 
