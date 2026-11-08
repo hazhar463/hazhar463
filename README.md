@@ -48,7 +48,7 @@ Most telecom teams have more network data than they can use. I turn that data in
 <td valign="top">
 <h3>Claude Code Without the Chaos</h3>
 <p>Build, test, and ship real software with an AI coding agent: a hands-on guide for beginners<br/><sub><b>Paperback · $29.99</b></sub></p>
-<p><a href="https://www.amazon.com/dp/B0HQVZN7KK"><img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy on Amazon" /></a><br/><a href="https://github.com/hazhar463/claude-code-without-the-chaos"><img src="https://img.shields.io/badge/Companion_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Companion code" /></a></p>
+<p><a href="https://www.amazon.com/dp/B0HQVZN7KK"><img src="https://hazhar463.github.io/assets/buy-amazon.svg" width="200" alt="Buy on Amazon" /></a>&nbsp;<a href="https://github.com/hazhar463/claude-code-without-the-chaos"><img src="https://hazhar463.github.io/assets/companion-code.svg" width="200" alt="Companion code on GitHub" /></a></p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ Most telecom teams have more network data than they can use. I turn that data in
 <td valign="top">
 <h3>AI Agents &amp; Automation for Beginners</h3>
 <p>Build controlled workflows that observe, decide, and act<br/><sub><b>Paperback · $24.99</b></sub></p>
-<p><a href="https://www.amazon.com/dp/B0HQVW4P7H"><img src="https://img.shields.io/badge/Buy_on_Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Buy on Amazon" /></a><br/><a href="https://github.com/hazhar463/ai-agents-for-beginners"><img src="https://img.shields.io/badge/Companion_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Companion code" /></a></p>
+<p><a href="https://www.amazon.com/dp/B0HQVW4P7H"><img src="https://hazhar463.github.io/assets/buy-amazon.svg" width="200" alt="Buy on Amazon" /></a>&nbsp;<a href="https://github.com/hazhar463/ai-agents-for-beginners"><img src="https://hazhar463.github.io/assets/companion-code.svg" width="200" alt="Companion code on GitHub" /></a></p>
 </td>
 </tr>
 </table>
